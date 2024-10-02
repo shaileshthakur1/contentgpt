@@ -23,3 +23,5 @@ flex justify-center items-center flex-col text-white
 }
 
 export default SearchSection
+
+

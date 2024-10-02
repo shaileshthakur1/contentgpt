@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default  [
     {
         name:'Blog Title',

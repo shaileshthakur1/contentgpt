@@ -6,7 +6,7 @@ export interface TEMPLATE {
   name: string;
   desc: string;
   icon: string;
-  catrgory: string;
+  category: string;
   slug: string;
   aiPrompt: string;
   form?: FORM[];
@@ -43,3 +43,4 @@ function TemplateListSection({ userSearchInput }: { userSearchInput?: string }) 
 }
 
 export default TemplateListSection;
+
